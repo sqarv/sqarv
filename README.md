@@ -1,7 +1,5 @@
-### Hi, I'm Rareș! 🎈
-A 2nd-year engineering student passionate about low-level programming, microcontrollers, and real-time systems. Currently focusing on state-machine architectures and non-blocking software design.
-
-📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-315B8F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rares-patrichi)
+#### Hi, I'm Rareș!
+2nd-year engineering student passionate about low-level programming, microcontrollers, and real-time systems
 
 ---
 
