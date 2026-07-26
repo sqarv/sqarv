@@ -10,5 +10,5 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqarv&layout=compact&theme=dark&hide_border=true" alt="Rareș's Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sqarv&layout=compact&theme=dark&hide_border=true" alt="Rareș's Top Languages" />
 </p>
